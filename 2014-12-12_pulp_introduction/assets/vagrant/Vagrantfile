@@ -1,0 +1,32 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+#
+# This Vagrantfile is a minimal one to test the new box.
+# (https://docs.vagrantup.com/v2/vagrantfile/index.html).
+#
+
+Vagrant.require_version ">= 1.6.2"
+
+Vagrant.configure("2") do |config|
+
+  # make sure path to new box is passed as environment variable
+  BOX_PATH=ENV['BOX'] || 'undef'
+
+  # box name and hostname
+  config.vm.box = 'packer_test'
+
+  config.vm.box_url = "file://../../../dev/packer_centos/shared/boxes//#{BOX_PATH}"
+
+  # display virtualbox console
+  config.vm.provider "virtualbox" do |vb|
+    vb.gui = false
+  end
+
+  # set puppet default module to undef
+  MODULE=ENV['PM'] || 'undef'
+
+  config.vm.network "forwarded_port", guest: 80, host: 8080
+  config.vm.network "forwarded_port", guest: 443, host: 8443
+end
+
+
