@@ -1,5 +1,5 @@
 Title:
-MQTT in the Enterprise - How to successfully run a MQTT Messaging Broker
+MQTT in the Enterprise - How to successfully run an MQTT Messaging Broker
 
 Abstract:
 Für unsere Kunden entwickeln wir in IoT-Projekten Applikationen und die dafür notwendige Infrastruktur. Oft betreiben wir diese Infrastruktur auch über mehrere Monate oder Jahre hinweg und entwickeln diese technologisch weiter. Dabei sammeln wir viele wertvolle und teils unerwartete Erfahrungen.
