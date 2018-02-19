@@ -15,4 +15,4 @@ Grundlegendes Verständnis über Anforderungen und Eigenschaften moderner Webapp
 In diesem Vortrag werden wichtige Aspekte und Herausforderungen+Lösungen beim Aufsetzen und den Betrieb eines MQTT Message Brokers (HiveMQ) vorgestellt.
 
 ## Bio
-Arnold uses great technologies to move companies in Germany beyond #Neuland. As Senior Systems Engineer at inovex he's working on software-defined datacenter management, continuous integration/delivery and getting rid of *the legacy stuff*. Right now with his colleagues he's setting up a fancy Kubernetes-based cloud platform in the German automotive area..
+Arnold uses great technologies to move companies in Germany beyond #Neuland. As Senior Systems Engineer at inovex he's working on software-defined datacenter management, continuous integration/delivery and getting rid of *the legacy stuff*. Right now with his colleagues he's setting up a fancy Kubernetes-based cloud platform in the German automotive area.
