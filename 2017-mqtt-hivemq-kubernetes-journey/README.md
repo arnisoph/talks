@@ -43,3 +43,7 @@ TBD
 
 ### Bio
 Arnold uses great technologies to move companies in Germany beyond #Neuland. As Senior Systems Engineer at inovex he's working on software-defined datacenter management, continuous integration/delivery and getting rid of *the legacy stuff*. Right now with his colleagues he's setting up a fancy Kubernetes-based cloud platform in the German automotive area.
+
+## CFP
+
+* GrafanaCon
