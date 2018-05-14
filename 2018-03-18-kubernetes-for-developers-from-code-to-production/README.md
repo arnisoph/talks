@@ -4,7 +4,11 @@
 Kubernetes for Developers - From Code to Production
 
 ### Abstract
-TBD
+Kubernetes Deployment-Tools wie kops sind inzwischen erwachsener als je zuvor und ermöglichen vollautomatisierte Infrastruktur- und Application-Workload auf mächtigen Plattformen wie AWS (IaaS/SaaS). Nie war es einfacher Kubernetes-Cluster aufzusetzen! Wir sind endlich in der Cloud angekommen! What a time to be alive!
+Aber ernsthaft betrachtet bieten euren Benutzern frisch installierte Kubernetes Clusters kaum etwas. Dinge wie Loadbalancer, VPN, on premises RZ Netzwerkanbindung, Datenbanken, Monitoring, Continuous Integration/Delivery, Software Repositories (JAR/WAR/Docker images/Git), Secrets Management, RBAC/SSO, usw. müssen immer noch selbst aufgesetzt werden.
+Einer unserer Kunden bat uns auf seinem Weg in die Cloud um Unterstützung. Wir lieferten. Ausgangsbasis war eine eingestaubte web-basierte Applikationsplattform, die durch Kubernetes und einen neuen Satz aus Open Source Tools in mehreren AWS-Regionen ersetzt wurde.
+Dieser Vortrag wird das Self-Service-Angebot aus Entwickler-Perspektive zu Workflows und Tooling vorstellen.
+
 
 ### Required knowledge
 
