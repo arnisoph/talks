@@ -43,3 +43,4 @@ Arnold uses great technologies to move companies in Germany beyond #Neuland. As 
 * Continuous Lifecycle
 * code.talks
 * DevOpsCon?
+* JavaLand
