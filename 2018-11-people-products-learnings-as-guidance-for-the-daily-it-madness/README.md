@@ -12,7 +12,6 @@ Im Enterprise-Umfeld scheinen Kosten immer öfter eine untergeordnete Rolle zu s
 
 In diesem anregenden Vortrag blicken wir auf diverse Erkenntnisse aus dem Einsatz agiler Produktentwicklung, DevOps, Continuous Integration/Delivery, Infrastructure as Code, Immutable Infrastructure (bspw. Docker/Kubernetes), Application Logging und Service Monitoring.
 
-
 ### Required knowledge
 
 Je weniger technologische Vorbelastung desto besser! :-)
@@ -25,7 +24,7 @@ Je weniger technologische Vorbelastung desto besser! :-)
 
 ### Bio
 
-Arnold uses great technologies to move companies in Germany beyond #Neuland. As Senior Systems Engineer at inovex he's working on software-defined datacenter management, continuous integration/delivery, getting rid of the *legacy stuff* and is especially interested in system & software architecture. At the end of the day he's cycling and writes a bio for call for papers.
+Arnold uses great technologies to move companies in Germany beyond #Neuland. As Senior Systems Engineer at inovex he's working on software-defined datacenter management, continuous integration/delivery, getting rid of the *legacy stuff* and is especially interested in system & software architecture. At the end of the day he loves to get outside with this MTB.
 
 
 ## CFP
