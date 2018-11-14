@@ -10,7 +10,7 @@ IT im 21. Jahrhundert - What a time to be alive! Es gibt einen (unüberschaubare
 
 Im Enterprise-Umfeld scheinen Kosten immer öfter eine untergeordnete Rolle zu spielen. Wir Techies verlieren dann durch ungebändigten Tatendrang schon mal schnell Pragmatismus und Verhältnismäßigkeit aus dem Fokus. Doch wohin führt das?
 
-In diesem anregenden Vortrag blicken wir auf diverse Erkenntnisse aus dem Einsatz agiler Produktentwicklung, DevOps, Continuous Integration/Delivery, Infrastructure as Code, Immutable Infrastructure (bspw. Docker/Kubernetes), Application Logging und Service Monitoring.
+In diesem Vortrag blicken wir auf diverse Erkenntnisse aus dem Einsatz agiler Produktentwicklung, DevOps, Continuous Integration/Delivery, Infrastructure as Code, Immutable Infrastructure (bspw. Docker/Kubernetes), Application Logging und Service Monitoring.
 
 ### Required knowledge
 
