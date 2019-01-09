@@ -15,11 +15,11 @@ Links:
 * https://talks.arbe.io (Slides)
 * https://feedback.arbe.io (Feedback)
 
-### Required knowledge
+Required knowledge:
 
 Existing practical experience in (agile) development and operations of scaling and high-available apps help to follow the revealed challenges.
 
-### Learning Goals
+Learning Goals:
 
 We discuss soft non-technical factors that lead to failures in our daily work even though we try to use/introduce DevOps methods.
 
@@ -45,11 +45,11 @@ Links:
 * https://talks.arbe.io (Slides)
 * https://feedback.arbe.io (Feedback)
 
-### Vorkenntnisse
+Vorkenntnisse:
 
 Existierende praktische Erfahrung in der (agilen) Entwicklung und im Betrieb von skalierenden bzw. hochverfügbaren Anwendungen helfen beim Verständnis der vorgetragenen Herausforderungen.
 
-### Lernziele
+Lernziele:
 
 Behandelt werden untechnische weiche Faktoren, die zu Misserfolgen im Tagesgeschäft führen, trotz und vielleicht wegen des Einsatzes von DevOps-Methoden.
 
@@ -59,3 +59,5 @@ Behandelt werden untechnische weiche Faktoren, die zu Misserfolgen im Tagesgesch
 * microXchg
 * OSDC
 * DevOps Pro Moscow
+* DevOps Karlsruhe Meetup
+* EnterJS
