@@ -6,7 +6,7 @@ DevOps is neither the Answer, nor the Question!
 
 ### Abstract
 
-DevOps has been arround for a decade. In this time it grew from a vague buzzword to a key-subject discussed in and used by several companies. DevOps is more than a group therapy for frusted IT engineers with new fancy tools! It has impact on most of our workflows - and more! A cultural refactoring complementing bigger projects with even bigger technical or organisational problems aka challenges.
+DevOps has been around for a decade. In this time it grew from a vague buzzword to a key-subject discussed in and used by several companies. DevOps is more than a group therapy for frustrated IT engineers with new fancy tools! It has impact on most of our workflows - and more! A cultural refactoring complementing bigger projects with even bigger technical or organisational problems aka challenges.
 
 What are the show-stoppers when introducing DevOps methods? What are the technical symptoms? Which problems aren't actually technical? How to approach these issues? This talk won't give you an introduction to DevOps. It rather highlights where the usage of DevOps methods creates more problems than it solves. We identify potential causes and discuss possible approaches.
 
