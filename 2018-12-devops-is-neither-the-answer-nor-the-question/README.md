@@ -55,9 +55,11 @@ Behandelt werden untechnische weiche Faktoren, die zu Misserfolgen im Tagesgesch
 
 ## Events/CFP
 
-* Entwicklertag
-* microXchg
-* OSDC
-* DevOps Pro Moscow
+* DevOps Berlin
 * DevOps Karlsruhe Meetup
+* DevOps Munich
+* DevOps Pro Moscow
 * EnterJS
+* Entwicklertag
+* OSDC
+* microXchg
