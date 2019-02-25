@@ -17,7 +17,7 @@ Links:
 
 Required knowledge:
 
-Existing practical experience in (agile) development and operations of scaling and high-available apps help to follow the revealed challenges.
+Existing practical experience in (agile) development and operations of scaling and high-available apps help to follow on the revealed challenges.
 
 Learning Goals:
 
