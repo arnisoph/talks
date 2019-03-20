@@ -55,6 +55,7 @@ Behandelt werden untechnische weiche Faktoren, die zu Misserfolgen im Tagesgesch
 
 ## Events/CFP
 
+* DevOps Meetup Hamburg?
 * DevOps Meetup Berlin?
 * DevOps Meetup Karlsruhe
 * DevOps Meetup Munich
@@ -62,7 +63,5 @@ Behandelt werden untechnische weiche Faktoren, die zu Misserfolgen im Tagesgesch
 * DevOps Pro Moscow?
 * DevOpsDays Amsterdam?
 * DevOpsDays Berlin?
-* ~~EnterJS~~
-* Entwicklertag 
+* Entwicklertag
 * OSDC
-* microXchg?
