@@ -25,7 +25,7 @@ We discuss soft non-technical factors that lead to failures in our daily work ev
 
 ### Bio
 
-Arnold (@arnisoph) uses great technologies to move companies in Germany beyond #Neuland. As Senior Systems Engineer at inovex he's working on software-defined datacenter management, continuous integration/delivery, getting rid of the \*legacy stuff\* and is especially interested in system & software architecture. At the end of the day he loves to get outside with his MTB.
+Arnold (@arnisoph) helps customers building awesome IT infrastructures as a Senior Systems Engineer at inovex. Throughout his IT career he gained experience in web & backend development, CI/CD, mailing platforms, infrastructure automation and designing reliable systems architecture. He regularly shares his knowledge on various IT conferences, meetups and trainings/workshops while never stopped learning new exciting things. Always trying to find the \*best\* approach and enjoying life in the nature on his MTB.
 
 ## German
 
@@ -53,15 +53,15 @@ Lernziele:
 
 Behandelt werden untechnische weiche Faktoren, die zu Misserfolgen im Tagesgeschäft führen, trotz und vielleicht wegen des Einsatzes von DevOps-Methoden.
 
+### Bio
+
+Arnold (@arnisoph) hilft Kunden beim Aufbau großartiger IT-Infrastrukturen als Senior Systems Engineer bei inovex. Stationen seiner IT-Karriere war das Sammeln von Erfahrungen in der Web- und Backend-Entwicklung, CI/CD, Mailing-Plattformen, Infrastruktur-Automatisierung und dem Designen zuverlässiger Systemarchitekturen. Sein Wissen teilt er regelmäßig auf IT-Konferenzen, Meetups sowie Trainings/Workshops und hat nie mit dem Lernen neuer spannender Themen aufgehört. Stets interessiert den \*besten\* Lösungsansatz zu finden und immer im Grünen auf Achse mit dem MTB.
+
 ## Events/CFP
 
-* DevOps Meetup Hamburg?
-* DevOps Meetup Berlin?
+* DevOps Meetup Hamburg
 * DevOps Meetup Karlsruhe
 * DevOps Meetup Munich
 * DevOps Meetup Stuttgart?
-* DevOps Pro Moscow?
-* DevOpsDays Amsterdam?
-* DevOpsDays Berlin?
 * Entwicklertag
 * OSDC
