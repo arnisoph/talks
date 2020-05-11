@@ -26,7 +26,7 @@ This repository contains all of my public slides and talk metadata. I appreciate
 
 ## 2014
 
-* OpenNebula Conference 2014: Bootstrapping a virtual infrastructure using OpenNebula from scratch
+* Bootstrapping a virtual infrastructure using OpenNebula from scratch
 * Pulp – Software Repository Management: A brief introduction
 
 ## 2013
