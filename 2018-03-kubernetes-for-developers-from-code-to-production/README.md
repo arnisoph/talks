@@ -26,9 +26,4 @@ Dieser Vortrag wird das Self-Service-Angebot aus Entwickler-Perspektive zu Workf
 
 ## Events/CFP
 
-* ContainerDays
-* Continuous Lifecycle
-* code.talks
-* DevOpsCon?
-* JavaLand
-* KubeCon
+None

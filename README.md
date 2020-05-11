@@ -4,7 +4,6 @@ This repository contains all of my public slides and talk metadata. I appreciate
 
 ## 2018
 
-* Kubernetes for Developers - From Code to Production
 * MQTT in the Enterprise - How we successfully run an MQTT Messaging Broker
 * Put your Kubernetes into Jail – Deployment and Operations on AWS China (with Timo Heinrichs)
 * People & Products – Erkenntnisse als Hilfestellung für den täglichen IT-Wahnsinn (German only)
@@ -12,7 +11,7 @@ This repository contains all of my public slides and talk metadata. I appreciate
 
 ## 2017
 
-*  The journey of shifting the MQTT message broker HiveMQ to Kubernetes
+* The journey of shifting the MQTT message broker HiveMQ to Kubernetes
 
 ## 2016
 
