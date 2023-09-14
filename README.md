@@ -1,6 +1,10 @@
 # talks
 
-This repository contains all of my public slides and talk metadata. I appreciate any [feedback](https://sayat.me/arbe) you give about the stuff I do. :)
+This repository contains slides of my public talks.
+
+## 2023
+
+* Einfach Machen™ - Platform Engineering bei RTL Data
 
 ## 2018
 
