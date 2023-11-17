@@ -2,7 +2,7 @@
 
 ### Title
 
-TBD
+Building large-scale Internal Developer Platforms: Core Principals
 
 ### Abstract
 
@@ -16,7 +16,7 @@ TBD
 
 ### Titel
 
-Einfach Machen™ - Platform Engineering bei RTL Data
+Einfach Machen?! - Platform Engineering bei RTL Data
 
 ### Beschreibung
 
@@ -32,4 +32,4 @@ Arnold konzipierte und baute als externer Systems Engineer & Architect skalierba
 
 ## Events/CFP
 
-TBD
+* GDG DevFest Karlsruhe (2023 November)

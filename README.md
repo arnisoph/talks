@@ -4,7 +4,7 @@ This repository contains slides of my public talks.
 
 ## 2023
 
-* Einfach Machen™ - Platform Engineering bei RTL Data
+* Building large-scale Internal Developer Platforms: Core Principals
 
 ## 2018
 

@@ -62,6 +62,5 @@ Arnold (@arnisoph) hilft Kunden beim Aufbau großartiger IT-Infrastrukturen als 
 * DevOps Meetup Hamburg (2019 July)
 * DevOps Meetup Karlsruhe (2019 March)
 * DevOps Meetup Munich (2019 June)
-* DevOps Meetup Stuttgart?
 * Entwicklertag Karlsruhe (2019 June)
 * OSDC Berlin (2019 May)
