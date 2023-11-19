@@ -1,6 +1,6 @@
 # talks
 
-This repository contains slides of my public talks.
+Slides and other publications
 
 ## 2023
 
