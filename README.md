@@ -4,7 +4,7 @@ This repository contains slides of my public talks.
 
 ## 2023
 
-* Building large-scale Internal Developer Platforms: Core Principals
+* [Building large-scale Internal Developer Platforms: Core Principles](2023-internal-developer-platform-core-principles/)
 
 ## 2018
 
