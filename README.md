@@ -4,7 +4,7 @@ Slides and other publications
 
 ## 2023
 
-* [Building large-scale Internal Developer Platforms: Core Principles](2023-internal-developer-platform-core-principles/)
+* [Building large-scale Internal Developer Platforms: Core Principles](2023-idp-core-principles/)
 
 ## 2018
 
