@@ -28,7 +28,7 @@ Im Vortrag sprechen wir über die gesammelten Erfahrungen bei Aufbau und Einfüh
 
 ### Bio
 
-Arnold konzipierte und baute als externer Systems Engineer & Architect skalierbare und hochverfügbare IT-Infrastrukturen für Großunternehmen in Deutschland. Im Laufe seiner Karriere orientierte er sich in weiteren Rollen im Bereich Product Ownership und der Organisation von Cloud-Plattformen weiter. Heute arbeitet Arnold als Head of Data Core bei RTL Data mit seinen Kolleg:innen an einer hochskalierbaren Internal Developer Platform für die spannenden Datenprodukte von morgen.
+Arnold konzipiert und baut seit über 10 Jahren IT-Plattformen für Großunternehmen in Deutschland. Neben dem technischen Engineering beschäftigte er sich auch als Architekt und Product Owner in der Unternehmensorganisation und Product Management. Heute arbeitet Arnold als Head of Data Core bei RTL Data mit seinen Kolleg:innen an einer hochskalierbaren Internal Developer Platform für die spannenden Datenprodukte von morgen.
 
 ## Events/CFP
 
