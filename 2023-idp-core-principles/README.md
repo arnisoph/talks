@@ -6,11 +6,15 @@ Building large-scale Internal Developer Platforms: Core Principles
 
 ### Abstract
 
-TBD
+"I was hoping for a slightly more detailed explanation of how cloud computing works than - It's magic" - Many companies build internal developer platforms in the cloud instead of handing over cloud accounts/credentials directly to their development teams. There may be various reasons for this, such as standardization, governance and cost control. Also the reduction of repetitive and complex tasks due to increasingly complex IT toolchains.
+
+The Internal Developer Platform developed at RTL Data is based on these motivators. Today, it is used by over 30 very heterogeneous data product teams with technologies such as GCP/AWS/Azure, GKE/Kubernetes, Prometheus/Grafana/OpsGenie, Argo CD, Gitlab CI, Airflow, Terraform, (HashiCorp) Vault and in-house developments. The consistent decentralization & encapsulation of the infrastructure is quite unique at RTL and has already resulted in over 400 GCP projects and 100 GKE clusters in 2-3 years.
+
+In the presentation, we will talk about the experience we have gained in setting up and introducing this highly individualized platform.
 
 ### Bio
 
-TBD
+Arnold has been designing and building IT platforms for large companies in Germany for over 10 years. In addition to technical engineering, he has also worked as an architect and product owner in enterprise IT organization and product management. Today, as Head of Data Core at RTL Data, Arnold works with his colleagues on a highly scalable internal developer platform for the exciting data products of tomorrow.
 
 ## German
 
@@ -28,7 +32,7 @@ Im Vortrag sprechen wir über die gesammelten Erfahrungen bei Aufbau und Einfüh
 
 ### Bio
 
-Arnold konzipiert und baut seit über 10 Jahren IT-Plattformen für Großunternehmen in Deutschland. Neben dem technischen Engineering beschäftigte er sich auch als Architekt und Product Owner mit der Unternehmensorganisation und dem Product Management. Heute arbeitet Arnold als Head of Data Core bei RTL Data mit seinen Kolleg:innen an einer hochskalierbaren Internal Developer Platform für die spannenden Datenprodukte von morgen.
+Arnold konzipiert und baut seit über 10 Jahren IT-Plattformen für Großunternehmen in Deutschland. Neben dem technischen Engineering beschäftigte er sich auch als Architekt und Product Owner mit der IT-Organisation und dem Product Management. Heute arbeitet Arnold als Head of Data Core bei RTL Data mit seinen Kolleg:innen an einer hochskalierbaren Internal Developer Platform für die spannenden Datenprodukte von morgen.
 
 ## Events/CFP
 
