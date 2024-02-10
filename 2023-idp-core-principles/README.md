@@ -37,3 +37,5 @@ Arnold konzipiert und baut seit über 10 Jahren IT-Plattformen für Großunterne
 ## Events/CFP
 
 * GDG DevFest Karlsruhe (2023 November)
+* DevOps Meetup Stuttgart (2024 April)
+* stackconf Berlin (2024 June)
