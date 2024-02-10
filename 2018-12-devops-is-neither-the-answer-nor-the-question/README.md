@@ -57,7 +57,7 @@ Behandelt werden untechnische weiche Faktoren, die zu Misserfolgen im Tagesgesch
 
 Arnold (@arnisoph) hilft Kunden beim Aufbau großartiger IT-Infrastrukturen als Senior Systems Engineer bei inovex. Stationen seiner IT-Karriere war das Sammeln von Erfahrungen in der Web- und Backend-Entwicklung, CI/CD, Mailing-Plattformen, Infrastruktur-Automatisierung und dem Designen zuverlässiger Systemarchitekturen. Sein Wissen teilt er regelmäßig auf IT-Konferenzen, Meetups sowie Trainings/Workshops und hat nie mit dem Lernen neuer spannender Themen aufgehört. Stets interessiert den \*besten\* Lösungsansatz zu finden und immer im Grünen auf Achse mit dem MTB.
 
-## Events/CFP
+## Events
 
 * DevOps Meetup Hamburg (2019 July)
 * DevOps Meetup Karlsruhe (2019 March)

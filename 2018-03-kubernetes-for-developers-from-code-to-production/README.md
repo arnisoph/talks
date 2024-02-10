@@ -24,6 +24,6 @@ Aber ernsthaft betrachtet bieten euren Benutzern frisch installierte Kubernetes 
 Einer unserer Kunden bat uns auf seinem Weg in die Cloud um Unterstützung. Wir lieferten. Ausgangsbasis war eine eingestaubte web-basierte Applikationsplattform, die durch Kubernetes und einen neuen Satz aus Open Source Tools in mehreren AWS-Regionen ersetzt wurde.
 Dieser Vortrag wird das Self-Service-Angebot aus Entwickler-Perspektive zu Workflows und Tooling vorstellen.
 
-## Events/CFP
+## Events
 
 None

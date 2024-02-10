@@ -34,7 +34,7 @@ Im Vortrag sprechen wir über die gesammelten Erfahrungen bei Aufbau und Einfüh
 
 Arnold konzipiert und baut seit über 10 Jahren IT-Plattformen für Großunternehmen in Deutschland. Neben dem technischen Engineering beschäftigte er sich auch als Architekt und Product Owner mit der IT-Organisation und dem Product Management. Heute arbeitet Arnold als Head of Data Core bei RTL Data mit seinen Kolleg:innen an einer hochskalierbaren Internal Developer Platform für die spannenden Datenprodukte von morgen.
 
-## Events/CFP
+## Events
 
 * GDG DevFest Karlsruhe (2023 November)
 * DevOps Meetup Stuttgart (2024 April)
