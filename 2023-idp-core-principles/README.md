@@ -38,4 +38,6 @@ Arnold konzipiert und baut seit über 10 Jahren IT-Plattformen für Großunterne
 
 * GDG DevFest Karlsruhe (2023 November)
 * DevOps Meetup Stuttgart (2024 April)
+* inovex Meetup Karlsruhe (2024 May)
+* Karlsruher Entwicklertag (2024 June)
 * stackconf Berlin (2024 June)
