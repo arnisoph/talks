@@ -20,7 +20,7 @@ Arnold has been designing and building IT platforms for large companies in Germa
 
 ### Titel
 
-Einfach Machen?! - Platform Engineering bei RTL Data
+Kernprinzipien großer Internal Developer Platforms - Ausprobiert!
 
 ### Beschreibung
 
